@@ -1,0 +1,3 @@
+venv\Scripts\activate
+cd C:\Users\Administrator\Desktop\Image-processing
+python go.py
